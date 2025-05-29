@@ -1,4 +1,4 @@
-# College Fee Management System
+# Hostel Management System
 
 *Subject Name*: Advanced Java    
 *Name*: Ravitej C Neeli 
