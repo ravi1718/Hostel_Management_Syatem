@@ -2,6 +2,7 @@
 
 *Subject Name*: Advanced Java    
 *Name*: Ravitej C Neeli 
+<br>
 *USN*: 4AL22CS118
 
 <br>
@@ -30,7 +31,7 @@
 
 ## 📂 Project Structure
 
-
+```
 HostelWebApp/
 ├── WebContent/
 │ ├── index.jsp
@@ -56,7 +57,7 @@ HostelWebApp/
 │ └── ReportCriteriaServlet.java
 └── WEB-INF/
 └── web.xml
-
+```
 
 <br>
 <br>
@@ -130,7 +131,7 @@ The Output/ folder contains screenshots of the application UI including:
 ![Front Page](https://github.com/ravi1718/Hostel_Management_Syatem/blob/main/output/frontpage.jpg)
 
 ## Add Student
-![Add student]()
+![Add student](https://github.com/ravi1718/Hostel_Management_Syatem/blob/main/output/addstudent.jpg)
 
 ## display Students
 ![display student](https://github.com/ravi1718/Hostel_Management_Syatem/blob/main/output/displaystudents.jpg)
