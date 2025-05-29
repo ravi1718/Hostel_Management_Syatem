@@ -65,14 +65,14 @@ HostelWebApp/
 ## 🗄 Database Setup :
 
 ### 1. Create Database :
- -> sql :-
+ ```-> sql :-
 
 CREATE DATABASE IF NOT EXISTS hosteldb;
 USE hosteldb;
-
+```
 
 ### 2. Create Table :
- -> sql :-
+ ```-> sql :-
 CREATE TABLE HostelStudents (
   StudentID INT PRIMARY KEY,
   StudentName VARCHAR(100),
@@ -81,7 +81,7 @@ CREATE TABLE HostelStudents (
   FeesPaid DECIMAL(10,2),
   PendingFees DECIMAL(10,2)
 );
-
+```
 <br>
 <br>
 
